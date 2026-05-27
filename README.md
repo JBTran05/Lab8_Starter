@@ -1,3 +1,3 @@
-# Lab8-Starter
+[# Lab8-Starter](https://jbtran05.github.io/Lab8_Starter/)
 
 Graceful degradation and service workers are closely related because service workers allow a web app to degrade gracefully when there is no network connection. Without a service worker, losing internet access means the app breaks entirely no HTML, no CSS, no JS, nothing. With a service worker acting as a cache layer, the app can still serve its core content and functionality from local cache even when offline. This means the app starts with the full network-dependent experience, but degrades gracefully to an offline-capable version when the network fails, without the user experiencing a complete breakdown of the application.
